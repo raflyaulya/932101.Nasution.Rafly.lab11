@@ -1,0 +1,23 @@
+{
+    "runtimeTarget": {
+      "name": ".NETCoreApp,Version=v6.0",
+      "signature": ""
+    },
+    "compilationOptions": {},
+    "targets": {
+      ".NETCoreApp,Version=v6.0": {
+        "932101.Nasution.Rafly.lab11/1.0.0": {
+          "runtime": {
+            "932101.Nasution.Rafly.lab11.dll": {}
+          }
+        }
+      }
+    },
+    "libraries": {
+      "932003.Nasution.Rafly.lab11/1.0.0": {
+        "type": "project",
+        "serviceable": false,
+        "sha512": ""
+      }
+    }
+  }
